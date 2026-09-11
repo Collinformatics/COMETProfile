@@ -6,7 +6,6 @@ numpy
 openpyxl
 pandas
 playsound
-PyObjC
 seaborn
 scikit-learn
 torch
