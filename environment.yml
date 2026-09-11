@@ -1,4 +1,4 @@
-name: enzprofile
+name: cometprofile
 channels:
   - conda-forge
   - defaults
