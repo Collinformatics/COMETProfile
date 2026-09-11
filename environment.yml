@@ -1,0 +1,27 @@
+name: enzprofile
+channels:
+  - conda-forge
+  - defaults
+
+dependencies:
+  # Python version
+  - python=3.12
+
+  # Core Scientific Stack
+  - biopython
+  - matplotlib
+  - numpy
+  - pandas
+  - seaborn
+  - scikit-learn
+  - xgboost
+  - wordcloud
+  - playsound
+  - pytorch
+  - pip
+
+  # Pip-only packages
+  - pip:
+      - fair-esm
+      - logomaker
+      - openpyxl
