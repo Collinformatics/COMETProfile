@@ -6,7 +6,7 @@ You will need to install the required modules by running a command in the termin
 
     conda env create -f environment.yml
 
-2: If you don't want to use miniconda, then use requirements.txt to install the needed packages:
+2: If you don't want to use miniconda, then use requirements.txt to install the needed packages to your venv:
 
     pip install -r requirements.txt
 
